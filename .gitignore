@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.vtktest_env/
 
 # Spyder project settings
 .spyderproject
